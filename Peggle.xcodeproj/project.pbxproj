@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		922D0CEA2775123000AA0734 /* FireParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 922D0CE92775123000AA0734 /* FireParticles.sks */; };
 		928856A62762DD2E00E1A26C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928856A52762DD2E00E1A26C /* AppDelegate.swift */; };
 		928856A82762DD2E00E1A26C /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 928856A72762DD2E00E1A26C /* GameScene.sks */; };
 		928856AC2762DD2E00E1A26C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 928856AB2762DD2E00E1A26C /* GameScene.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		922D0CE92775123000AA0734 /* FireParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = FireParticles.sks; sourceTree = "<group>"; };
 		928856A22762DD2E00E1A26C /* Peggle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Peggle.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		928856A52762DD2E00E1A26C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		928856A72762DD2E00E1A26C /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				928856AF2762DD2E00E1A26C /* Main.storyboard */,
 				928856B22762DD2F00E1A26C /* Assets.xcassets */,
 				928856B42762DD2F00E1A26C /* LaunchScreen.storyboard */,
+				922D0CE92775123000AA0734 /* FireParticles.sks */,
 			);
 			path = Peggle;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			files = (
 				928856B12762DD2E00E1A26C /* Main.storyboard in Resources */,
 				928856A82762DD2E00E1A26C /* GameScene.sks in Resources */,
+				922D0CEA2775123000AA0734 /* FireParticles.sks in Resources */,
 				928856B32762DD2F00E1A26C /* Assets.xcassets in Resources */,
 				928856B62762DD2F00E1A26C /* LaunchScreen.storyboard in Resources */,
 			);
